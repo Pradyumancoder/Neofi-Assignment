@@ -72,3 +72,10 @@
 
 <p>Happy coding!</p>
 
+![Screenshot 2023-05-11 000730](https://github.com/Pradyumancoder/Neofi-Assignment/assets/97114184/acaac635-feb1-42f5-8e0a-8d888ebe9038)
+![Screenshot 2023-05-11 000944](https://github.com/Pradyumancoder/Neofi-Assignment/assets/97114184/38ebc265-4ceb-4590-9424-55dfb48c10b0)
+![Screenshot 2023-05-11 001104](https://github.com/Pradyumancoder/Neofi-Assignment/assets/97114184/734b16b9-7ae4-4af7-900d-1b1909264fd4)
+![Screenshot 2023-05-11 001217](https://github.com/Pradyumancoder/Neofi-Assignment/assets/97114184/8638cfa1-cdd2-4ea7-a221-7d00e43bd0a8)
+![second pixel5 mobile size img](https://github.com/Pradyumancoder/Neofi-Assignment/assets/97114184/e3b1f1ea-1516-4a22-a4d8-e8d1257c8c92)
+![third iphone img](https://github.com/Pradyumancoder/Neofi-Assignment/assets/97114184/91b6783a-bd8c-4650-b407-0a0d5ee2b516)
+
