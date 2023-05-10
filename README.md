@@ -57,21 +57,6 @@
 
 <p>This command will create an optimized production build in the <code>build</code> directory of your project. You can deploy this build to a web server or hosting platform.</p>
 
-<h2>Additional Scripts</h2>
-
-<p>The project comes with additional scripts that you can run as needed:</p>
-
-<ul>
-  <li><code>npm test</code>: Runs the test suite for your React application.</li>
-  <li><code>npm run eject</code>: Removes the single build dependency and configuration files from the project. <strong>Note: This is a one-way operation and cannot be undone.</strong></li>
-</ul>
-
-<h2>Conclusion</h2>
-
-<p>Congratulations! You have successfully opened and started your React application. Feel free to explore and modify the code to suit your needs. Should you have any questions or encounter any issues, please refer to the project documentation or seek assistance from the development team.</p>
-
-<p>Happy coding!</p>
-
 <!-- Images -->
 <h2>Screenshots</h2>
 
@@ -85,3 +70,12 @@
 <img src="https://github.com/Pradyumancoder/Neofi-Assignment/assets/97114184/8638cfa1-cdd2-4ea7-a221-7d00e43bd0a8" alt="Screenshot 4">
 <img src="https://github.com/Pradyumancoder/Neofi-Assignment/assets/97114184/e3b1f1ea-1516-4a22-a4d8-e8d1257c8c92" alt="Screenshot 5">
 <img src="https://github.com/Pradyumancoder/Neofi-Assignment/assets/97114184/91b6783a-bd8c-4650-b407-0a0d5ee2b516" alt="Screenshot 6">
+
+<h2>Tech Stack Used</h2>
+<li>React.js</li>
+<li>JavaScript</li>
+<li>Tailwind Css</li>
+
+<h2>Deployed Live Running Vercel Url</h2>
+ <h2>Vercel Link :-</h2> https://neofi-assignment-woad.vercel.app/
+
